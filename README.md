@@ -64,6 +64,13 @@
       height="36"
       alt="React"
   /></a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-dark.svg"
+      width="36"
+      height="36"
+      alt="NextJS"
+  /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
@@ -108,7 +115,7 @@
   /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-dark.svg"
       width="36"
       height="36"
       alt="Express"
@@ -189,18 +196,6 @@
   /></a>
 </p>
 
-<p align="center">
-  I'm currently working on
-  <a
-    href="https://github.com/br-ndt/checker.io"
-    target="_blank"
-    rel="noreferrer"
-    >checker.io</a
-  >, a socket.io-based multiplayer checkers app, available to play
-  <a href="https://checker-io.herokuapp.com" target="_blank" rel="noreferrer"
-    >here!</a
-  >
-</p>
 <p align="center">
   Please contact me at
   <a href="mailto:br.ndt.tyler@gmail.com">br.ndt.tyler@gmail.com</a>
