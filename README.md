@@ -63,6 +63,7 @@
       height="36"
       alt="Python"
   /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a>
 </p>
 
 <h3 align="center">Web</h3>
@@ -88,6 +89,7 @@
       height="36"
       alt="CSS3"
   /></a>
+  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="36" height="36"/></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
@@ -112,6 +114,8 @@
       height="36"
       alt="Webpack"
   /></a>
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="36" height="36"/></a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="36" height="36"/></a>
 </p>
 
 <h3 align="center">Server & Database</h3>
@@ -130,6 +134,7 @@
       height="36"
       alt="Express"
   /></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="36" height="36"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
@@ -137,6 +142,7 @@
       height="36"
       alt="MongoDB"
   /></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
@@ -146,8 +152,10 @@
   /></a>
 </p>
 
-<h3 align="center">Design</h3>
+<h3 align="center">Design & Creation</h3>
 <p align="center">
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="36" height="36"/></a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="36" height="36"/></a>
   <a
     href="https://www.adobe.com/uk/products/photoshop.html"
     target="_blank"
@@ -181,7 +189,7 @@
 
 <p align="center">
   <a
-    href="http://www.instagram.com/chaos.in.divide"
+    href="http://www.instagram.com/t_br_ndt"
     target="_blank"
     rel="noreferrer"
     ><img
