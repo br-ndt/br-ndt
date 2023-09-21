@@ -21,7 +21,7 @@
   />
 </p>
 
-<p align="center">I'm a programmer, musician and designer from Massachusetts currently working at Level99 Entertainment!<br/>My current language of choice is Javascript/Typescript and I am learning Python.</p><p align="center">I've also done work with C# in the Unity Engine (examples above)</p>
+<p align="center">I'm a programmer, musician and designer from Massachusetts currently working at Level99 Entertainment!<br/>My current language of choice is Javascript/Typescript and I also write a lot of Python for work.</p><p align="center">I've also done work with C# in the Unity Engine (examples above)</p>
 
 <h2 align="center">Skills</h2>
 <h3 align="center">Core</h3>
