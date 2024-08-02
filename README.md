@@ -21,7 +21,7 @@
   />
 </p>
 
-<p align="center">I'm a programmer, musician and designer from Massachusetts currently working at Level99 Entertainment!<br/>My current language of choice is Javascript/Typescript and I also write a lot of Python for work.</p><p align="center">I've also done work with C# in the Unity Engine (examples above)</p>
+<p align="center">I'm a programmer, musician and designer from Massachusetts currently working at Boston Dynamics!<br/>My current language of choice is Javascript/Typescript and I also write a lot of Python and C++ for work.</p><p align="center">I've also done work with C# in the Unity Engine (examples above), alongside many years of web design and development.</p>
 
 <h2 align="center">Skills</h2>
 <h3 align="center">Core</h3>
@@ -47,6 +47,16 @@
       alt="TypeScript"
   /></a>
   <a
+    href="https://www.gnu.org/software/bash/"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg"
+      width="36"
+      height="36"
+      alt="Bash"
+  /></a>
+  <a
     href="https://docs.microsoft.com/en-us/dotnet/csharp/"
     target="_blank"
     rel="noreferrer"
@@ -62,6 +72,16 @@
       width="36"
       height="36"
       alt="Python"
+  /></a>
+    <a
+    href="[https://docs.microsoft.com/en-us/dotnet/csharp/](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg"
+      width="36"
+      height="36"
+      alt="C++"
   /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a>
 </p>
@@ -82,20 +102,27 @@
       height="36"
       alt="NextJS"
   /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
+ <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg"
       width="36"
       height="36"
-      alt="CSS3"
+      alt="Ruby"
   /></a>
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="36" height="36"/></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
       width="36"
       height="36"
-      alt="Sass"
+      alt="Docker"
+  /></a>
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
+      width="36"
+      height="36"
+      alt="ReduxJS"
   /></a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
@@ -113,6 +140,12 @@
       width="36"
       height="36"
       alt="Webpack"
+  /><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
+      width="36"
+      height="36"
+      alt="Firebase"
   /></a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="36" height="36"/></a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="36" height="36"/></a>
@@ -166,8 +199,15 @@
       height="36"
       alt="Photoshop"
   /></a>
+   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
+      width="36"
+      height="36"
+      alt="Sass"
+  /></a>
   <a
-    href="adobe.com/uk/products/illustrator.html"
+    href="https://adobe.com/uk/products/illustrator.html"
     target="_blank"
     rel="noreferrer"
     ><img
@@ -175,6 +215,12 @@
       width="36"
       height="36"
       alt="Illustrator"
+  /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+      width="36"
+      height="36"
+      alt="CSS3"
   /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"
     ><img
