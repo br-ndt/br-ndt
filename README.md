@@ -21,7 +21,7 @@
   />
 </p>
 
-<p align="center">I'm a programmer, musician and designer from Massachusetts currently working at Boston Dynamics!<br/>My current language of choice is Javascript/Typescript and I also write a lot of Python and C++ for work.</p><p align="center">I've also done work with C# in the Unity Engine (examples above), alongside many years of web design and development.</p>
+<p align="center">I'm a programmer, musician and designer from Massachusetts. I'm currently working at Boston Dynamics!<br/>My current language of choice is Javascript/Typescript, and I also write a lot of Python and C++ (and config 🥲) for work.</p><p align="center">I've also done work with C# in the Unity Engine (examples above), alongside many years of web design and development.</p>
 
 <h2 align="center">Skills</h2>
 <h3 align="center">Core</h3>
