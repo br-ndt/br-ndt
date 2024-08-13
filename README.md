@@ -1,4 +1,4 @@
-<h1 align="center">I'm Tyler Brandt!</h1>
+<h1 align="center">I'm Tyler!</h1>
 <p align="center">
   <img
     display="inline"
